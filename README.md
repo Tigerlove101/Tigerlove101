@@ -56,7 +56,7 @@ Enterprise-style SOC environment using Wazuh, Active Directory, Windows endpoint
 ### Microsoft Sentinel SOC Lab
 Sentinel environment collecting and investigating telemetry from an on-premises Windows/Active Directory lab using Entra Cloud Sync, Azure Arc, Azure Monitor Agent, Data Collection Rules, and KQL.
 
-➡️ [View Sentinel Lab](https://github.com/Tigerlove101/microsoft-sentinel-soc-lab)
+➡️ [View Sentinel Lab](https://github.com/Tigerlove101/Detection-Engineering)
 
 ### Active Directory Security Lab
 Enterprise-style AD environment for practicing identity security and Windows logging. Investigations include successful and failed logons, account lockouts, user creation/deletion, group membership changes, privileged account activity, process creation, and PowerShell activity.
